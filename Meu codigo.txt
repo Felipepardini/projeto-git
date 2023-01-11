@@ -8,4 +8,4 @@ elif velocidade > (velocidade_maxima * 40) / 100 + velocidade_maxima and velocid
 elif velocidade > (velocidade_maxima * 70) / 100 + velocidade_maxima:
   print('Infração gravissima: 880,41 - 7 pontos') 
 
-"teste versão 2"
+''teste versão 2''
